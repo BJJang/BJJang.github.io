@@ -18,7 +18,7 @@ locale                   : "ko-KR"
 title                    : "Lena Teacher's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Lena Bin"
 description              : "An amazing website."
 url                      : "https://BJJang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
